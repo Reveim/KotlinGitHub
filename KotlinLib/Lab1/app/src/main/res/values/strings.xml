@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="upd_but_name">Randomize</string>
+    <string name="run_but_name">Do the magic</string>
+    <string name="out_text_name">Random ints go here</string>
+</resources>
